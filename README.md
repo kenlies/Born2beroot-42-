@@ -7,3 +7,5 @@ Project where we had to install a linux-based server on a VM, and set some funky
 4. Set strong configuration for your sudo group.
 5. We had to develope a monitoring script on bash. At server startup, the script will display some information on all terminals every 10 minutes.
 FOR BONUSES: I did the first one, so partions as shown in the bonus partion example. 
+
+The signature.txt file is just a shasum of the VM instance added to our git repo for project evaluations. 
