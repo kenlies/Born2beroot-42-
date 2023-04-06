@@ -8,4 +8,6 @@ Project where we had to install a linux-based server on a VM, and set some funky
 5. We had to develope a monitoring script on bash. At server startup, the script will display some information on all terminals every 10 minutes.
 FOR BONUSES: I did the first one, so partions as shown in the bonus partion example. 
 
+In addition, in the evalpdf, we had to explain how the tools, software and protocols we used, work. Plus other stuff like adding users etc. 
+
 The signature.txt file is just a shasum of the VM instance added to our git repo for project evaluations. 
