@@ -1,6 +1,6 @@
 # Born2beroot
 ## My hive (42) school project for Born2beroot 
-A Hive Project where we had to install a linux-based server on a VM, and set some funky things in it.
+A Project where we had to install a linux-based server on a VM, and set some funky things in it.
 
 1. We had to partion our virtual machine using LVM into 2 encrypted section. (Example in subject)
 2. Setup UFW & SSH on port 4242. Install Sudo.
